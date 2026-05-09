@@ -3,3 +3,9 @@ env/
 data/
 
 outputs/
+
+__pycahe__/dataset.cpython-312.pyc
+__pycahe__model.cpython-312.pyc
+
+best_model_sn7.pth
+
